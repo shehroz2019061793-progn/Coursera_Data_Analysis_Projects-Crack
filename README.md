@@ -1,4 +1,4 @@
-# Coursera_Data_Analysis_Projects-Crack
+# Coursera_Data_Analysis-with_Python_Projects-Crack
 Data Analysis With Python – Notes &amp; Practice
 This repository contains my personal notes and practice files from the
 "Data Analysis With Python" course on Coursera.  
